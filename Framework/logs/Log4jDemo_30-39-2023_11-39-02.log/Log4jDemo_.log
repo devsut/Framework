@@ -1,0 +1,16 @@
+2023-09-30 11:39:03 INFO com.base.Pyroframe.ListenersonStart:26 - ********************* TESTSCRIPT EXECUTION IS STARTED ******************
+  2023-09-30 11:39:07 INFO com.base.Pyroframe.ListenersonTestStart:32 - **********************login EXECUTION IS STARTED ******************
+  2023-09-30 11:39:07 INFO com.base.Pyroframe.ListenersonTestSkipped:50 - **********************login HAS BEEN SKIPPED ******************
+  2023-09-30 11:39:07 INFO com.base.Pyroframe.ListenersonFinish:55 - ********************* TESTSCRIPT EXECUTION IS FINISHED ******************
+  2023-09-30 11:39:07 INFO com.base.Pyroframe.ListenersonStart:26 - ********************* TESTSCRIPT EXECUTION IS STARTED ******************
+  2023-09-30 11:39:27 INFO com.base.Pyroframe.ListenersonTestStart:32 - **********************login EXECUTION IS STARTED ******************
+  2023-09-30 11:39:29 INFO com.pages.Orange_hrm_loginusername:16 - Username is successfully entered
+  2023-09-30 11:39:29 INFO com.pages.Orange_hrm_loginpassword:21 - Password is successfully entered
+  2023-09-30 11:39:30 INFO com.pages.Orange_hrm_loginsubmit:25 - Submit button is successfully clicked
+  2023-09-30 11:39:37 INFO com.pages.Orange_hrm_loginrecuirment:36 - Recruitment button is successfully clicked
+  2023-09-30 11:39:37 INFO com.pages.Orange_hrm_loginselectjob:40 - Job dropdown arrow is successfully clicked
+  2023-09-30 11:39:38 INFO com.pages.Orange_hrm_loginselectjob:42 - Job  is successfully selected
+  2023-09-30 11:39:38 INFO com.pages.Orange_hrm_loginselectvacancy:46 - vacancy dropdown   is successfully clicked
+  2023-09-30 11:39:48 INFO com.base.Pyroframe.ListenersonTestFailure:44 - **********************login HAS BEEN FAILED ******************
+  2023-09-30 11:39:49 INFO com.base.Pyroframe.ListenersonFinish:55 - ********************* TESTSCRIPT EXECUTION IS FINISHED ******************
+  
